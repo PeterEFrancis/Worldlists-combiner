@@ -17,3 +17,7 @@ When the words in files of a .wordlist folder are added to `FULL.txt`, a `.impor
 3. Optionally use `sort-remove.sh` to sort and remove the words in `FULL.txt` that is created in the root directory of the repository.
 
 4. Optionally view `FULL_info.txt` for stats on FULL.txt.
+
+
+<!-- ## Acknowledgements
+Here, are wordlists from  -->
