@@ -1,4 +1,4 @@
-# Wordlist Combiner
+# Wordlists Combiner
 
 
 ## How to use
