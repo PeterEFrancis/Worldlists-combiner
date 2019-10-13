@@ -1,4 +1,4 @@
-# Wordlist Combiner
+# Wordlists Combiner
 
 
 ## How to use
@@ -9,6 +9,7 @@
 2. Use `combine.py` to combine the text files in the various .wordlist folders in
 the Wordlist folders.
 > `cd path/to/Wordlists/Scripts`
+
 > `python combine.py`
 
 When the words in files of a .wordlist folder are added to `FULL.txt`, a `.imported` file is added to the .wordlist folder.
