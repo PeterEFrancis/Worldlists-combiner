@@ -6,7 +6,6 @@ echo "2) Sort by length "
 echo "3) Sort by [0-9][A-Z] "
 echo "4) Remove all blank lines "
 echo "q) quit "
-
 read -p "> " choice
 
 case $choice in

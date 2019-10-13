@@ -14,7 +14,7 @@ the Wordlist folders.
 When the words in files of a .wordlist folder are added to `FULL.txt`, a `.imported` file is added to the .wordlist folder.
 
 
-3. Optionally run `sort-remove.sh` or `sort-remove` (unix executable) to sort and remove the words in `FULL.txt` that is created in the root directory of the repository.
+3. Optionally run `sort-remove.sh` to sort and remove the words in `FULL.txt` that is created in the root directory of the repository.
 
 
 <!-- ## Acknowledgements
