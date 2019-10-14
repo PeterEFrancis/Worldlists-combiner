@@ -4,7 +4,7 @@
 ## How to use
 
 1. Clone or download repository
-> `git clone https://github.com/francisp336/Worldlists.git`
+> `git clone https://github.com/francisp336/Worldlists-combiner.git`
 
 2. Use `combine.py` to combine the text files in the various .wordlist folders in
 the Wordlist folders.

@@ -24,12 +24,6 @@ def main():
 
     if needToSortAndRemoveDuplicates:
         print('Done importing.\n\nUse sort-remove.sh now.')
-        # with open("../FULL.txt", "r", encoding=encoding) as FULL:
-        #     bigList = sorted(list(set(re.split('\n', FULL.read()))))
-        # with open("../FULL.txt", "w") as FULL:
-        #     FULL.write(''.join(line + '\n' for line in bigList))
-        #     FULL.close()
-        # print('Finished sort and uniqueing.')
     else:
         print('Nothing new to import.')
 
